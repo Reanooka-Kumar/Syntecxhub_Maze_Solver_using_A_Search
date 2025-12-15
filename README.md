@@ -1,1 +1,1 @@
-# Syntecxhub_Maze_Solver_using_A-_Search
+# Syntecxhub_Maze_Solver_using_A*_Search
